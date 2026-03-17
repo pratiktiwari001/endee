@@ -8,7 +8,7 @@
 # This implementation was developed to bridge the gap between 
 # raw vector storage and high-utility consumer search, 
 # resolving specific v0.1.17 SDK mapping challenges.
-# ---------------------------------------------------------
+# -------------------------------------------------------
 import streamlit as st
 from endee import Endee
 from sentence_transformers import SentenceTransformer

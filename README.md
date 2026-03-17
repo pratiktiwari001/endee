@@ -1,3 +1,5 @@
+> 🚀 **Challenge Submission:** I have implemented a full-stack Semantic Discovery Engine using this database. Check out the [Luxe Discovery App here](./my_project/README.md).
+---
 <p align="center">
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/assets/logo-dark.svg">
