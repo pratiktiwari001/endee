@@ -1,0 +1,3 @@
+endee==0.1.17
+sentence-transformers
+streamlit
