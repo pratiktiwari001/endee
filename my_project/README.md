@@ -108,9 +108,7 @@ The system intelligently prioritizes relevant items like:
 - Acoustic Guitar
 
 ### 🖼️ Demo Preview  
-![Smart Shopper Demo](my_project\screenshots\Screenshot 2026-03-18 000955.png)
-
----
+![Smart Shopper Demo](./screenshots/Screenshot%202026-03-18%20000955.png)
 
 ---
 
